@@ -12,7 +12,7 @@
       "name": "github-workflow",
       "source": "./plugins/github-workflow",
       "description": "Automação de GitHub Issues até Pull Requests no Claude Code",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
