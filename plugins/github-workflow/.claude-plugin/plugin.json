@@ -1,0 +1,9 @@
+
+{
+  "name": "github-workflow",
+  "version": "1.0.0",
+  "description": "Project-scoped GitHub issue-to-PR workflows using GitHub CLI.",
+  "author": {
+    "name": "Samuel"
+  }
+}
