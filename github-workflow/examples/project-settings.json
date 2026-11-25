@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "project-tools": {
+      "source": {
+        "source": "github",
+        "repo": "ORG/claude-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "github-workflow@project-tools": true
+  }
+}
