@@ -1,7 +1,7 @@
 ---
 name: test-runner
 description: Avalia e executa testes relevantes, reportando comandos, resultados e lacunas sem alterar o código.
-model: sonnet
+model: haiku
 maxTurns: 15
 disallowedTools: Write, Edit, NotebookEdit
 ---
